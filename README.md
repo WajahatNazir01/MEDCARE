@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 A appointment booking system for a tertiery care hospital system in which doctors cna change thier time slots giving 30 minutes to every appointment and soecific wards for males and females according to their category are there.
+Medcare--Book smart heal fast
 
